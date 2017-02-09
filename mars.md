@@ -14,3 +14,7 @@ okay stopping
 2. again
 3. in
 4. numbers
+
+[www.link.com]
+*italics?*
+**bold**	
